@@ -1,0 +1,1 @@
+SELECT costumer FROM clientes
